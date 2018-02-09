@@ -1,6 +1,6 @@
 # rpi-ser2sock
 
-Code for building a Docker image, intended for running ser2sock utility on a Raspberry Pi.
+A Docker image, intended for running ser2sock utility on a Raspberry Pi.
 
 The ser2sock utility allows sharing of a serial device over a TCP/IP network. 
 
