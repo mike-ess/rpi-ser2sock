@@ -1,3 +1,7 @@
+Refer to https://github.com/nutechsoftware/ser2sock/blob/master/NEWS for the ser2sock licence, which only applies to the *binary* file within this repository.
+
+Any *code* in this project is licensed under The Unlicense.
+
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
@@ -21,4 +25,5 @@ OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
-For more information, please refer to <http://unlicense.org>
+For more information, please refer to (http://unlicense.org/)
+
