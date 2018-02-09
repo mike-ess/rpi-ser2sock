@@ -9,4 +9,4 @@ Currently this contains a binary for ser2sock that was built in February 2018 on
 ## Authors
 
 * **Nu Tech Software Solutions, Inc.** - *Created ser2sock software* - [nutechsoftware/ser2sock](https://github.com/nutechsoftware/ser2sock)
-* **Mike Ess** - *Created Docker Image* - 
+* **Mike Ess** - *Created code for creating a Docker Image* - Get the built image at https://hub.docker.com/r/mikeess/rpi-ser2sock/
