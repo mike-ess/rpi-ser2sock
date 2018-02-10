@@ -21,7 +21,7 @@ Look in the Dockerfile for details of (a) what port number is used and (b) what 
 ## Authors
 
 * **Nu Tech Software Solutions, Inc.** - *Created ser2sock software* - [nutechsoftware/ser2sock](https://github.com/nutechsoftware/ser2sock)
-* **Mike Ess** - *Created code for creating a Docker Image* - Get the built image at https://hub.docker.com/r/mikeess/rpi-ser2sock/
+* **Mike Ess** - *Wrote code for creating a Docker Image* - Get the built image at https://hub.docker.com/r/mikeess/rpi-ser2sock/
 
 ## Acknowledgments
 
